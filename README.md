@@ -37,6 +37,11 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Papers
 
+### 2025
+
+- [LETS Forecast: Learning Embedology for Time Series Forecasting](https://abrarmajeedi.github.io/deep_edm/) `ICML 2025`
+  - [[code](https://github.com/abrarmajeedi/DeepEDM)]
+
 ### 2024 
 
 - [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/pdf/2403.09898.pdf) `Arxiv`
